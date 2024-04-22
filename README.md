@@ -1,5 +1,10 @@
 # NLP_Hands_On_UNIMC
 
+<p align="center">
+  <img src="docs\logonlp.png" width="300" />
+</p>
+
+
 ## Install Anaconda
 
 * Install [Anaconda](https://www.anaconda.com/download/success)  
