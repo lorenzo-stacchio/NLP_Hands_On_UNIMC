@@ -1,7 +1,7 @@
 # NLP_Hands_On_UNIMC
 
 <p align="center">
-  <img src="docs\logonlp.png" width="300" />
+  <img src="docs\logonlp.png" width="600" />
 </p>
 
 
