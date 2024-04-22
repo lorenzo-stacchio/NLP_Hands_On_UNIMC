@@ -12,7 +12,7 @@
 * Create another conda environment following the image below.
 
 <p align="center">
-  <img src="docs\anaconda_navigator.png" width="300" />
+  <img src="docs\anaconda_navigator.png" width="600" />
 </p>
 
 * Open VScode selecting the novel environment;
