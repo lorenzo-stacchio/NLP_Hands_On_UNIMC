@@ -1,13 +1,37 @@
 # NLP_Hands_On_UNIMC
-
 <p align="center">
   <img src="docs\logonlp.png" width="600" />
 </p>
 
 
+Welcome to the NLP Hands-On Sessions Repository, developed for the [Laboratorio di analisi di dati testuali taught at the University of Macerata](https://docenti.unimc.it/marina.paolanti/courses/2023/28788).
+
+This repo amounts to a set of resources to learn foundational concepts of Natural Language Processing (NLP) exploiting Machine Learning, and Deep Learning techniques, applied specifically for NLP applications. Whether you're a novice or a seasoned practitioner, this repository provides a structured series of hands-on sessions designed to elevate you
+
+
+**What You'll Find:**
+
+* Interactive Jupyter Notebook: Interactive code sessions carefully crafted to cover foundational NLP concepts, from fundamental text preprocessing to advanced deep learning architectures;
+* Comprehensive Tutorials: Access comprehensive tutorials that guide you through each step of the NLP pipeline, leveraging popular libraries such as NLTK, spaCy, and PyTorch;
+* Supplementary Resources: Find supplementary resources including research papers, blog posts, and external links to deepen your understanding of NLP concepts beyond the sessions.
+
+
+**Session Topics:**
+
+* Introduction to NLP and Text Preprocessing;
+* Text Classification with Machine Learning;
+* Sentiment Analysis using Machine/Deep Learning;
+* Basic usage of Transformer Architectures;
+
+**How to Use:**
+
+* Clone or download the repository to your local machine;
+* Download
+* Follow the structured sequence of sessions, starting from the fundamentals and progressing to advanced topics.
+
 ## Install Anaconda
 
-* Install [Anaconda](https://www.anaconda.com/download/success)  
+* Install [Anaconda](https://www.anaconda.com/download/success);  
 * Install VScode from Anaconda Navigator;
 * Create another conda environment following the image below.
 
@@ -17,15 +41,16 @@
 
 * Open VScode selecting the novel environment;
 
-
 ## Install all conda packages
 
 * From VScode open a new terminal with ``` Terminal >>> New Terminal ```;  
 * In the terminal tipe ``` conda install numpy matplotlib pandas scikit-learn notebook```
 
-## Hands on sessions
+## Jupyter Notebooks Sessions
 
-* [NLP 20 newspaper classifier ](exercise_1\News_Classifier_Sklearn.ipynb)
+* [NLP 20 newspaper classifier](exercise_1\News_Classifier_Sklearn.ipynb)
+
+
 
 ## Useful References
 * https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
