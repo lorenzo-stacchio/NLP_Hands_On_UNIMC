@@ -30,11 +30,12 @@ This repo amounts to a set of resources to learn foundational concepts of Natura
 * Follow the structured sequence of sessions, starting from the fundamentals and progressing to advanced topics.
 
 ## Setting 
+
 ### Install Anaconda
 
 * Install [Anaconda](https://www.anaconda.com/download/success);  
 * Install VScode from Anaconda Navigator;
-* Create another conda environment following the image below.
+* Create another conda environment following the image below named NLP.
 
 <p align="center">
   <img src="docs\anaconda_navigator.png" width="600" />
@@ -45,7 +46,9 @@ This repo amounts to a set of resources to learn foundational concepts of Natura
 ### Install all conda packages
 
 * From VScode open a new terminal with ``` Terminal >>> New Terminal ```;  
-* In the terminal tipe ``` conda install numpy matplotlib pandas scikit-learn notebook```
+* In the terminal tipe ```pip install -r requirements.txt```
+* Optional:
+  * To save a modified environment for future usage, type ```pip list --format=freeze > requirements.txt```
 
 ## Jupyter Notebooks Sessions
 
