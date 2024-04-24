@@ -56,11 +56,18 @@ This repo amounts to a set of resources to learn foundational concepts of Natura
 * [Movie Reviews Sentiment Analysis](exercise_2\sentiment_scklearn\01-Sentiment-Analysis_sklearn.ipynb)
 
 
+## Project Work
+
+Visit [the relative folder](project_work)
+
+
 ## Adopted Datasets
 
 * Notebook Topic Classification --> [20 Newsgroups data set](http://qwone.com/~jason/20Newsgroups/)
 * Notebook Sentiment Analysis Movies --> [Sentiment Polarity Dataset Version 2.0](https://www.nltk.org/nltk_data/#:~:text=Sentiment%20Polarity%20Dataset%20Version%202.0%20%5B%20download%20%7C%20source%20%5D%0Aid%3A%20movie_reviews%3B%20size%3A%204004848%3B%20author%3A%20Bo%20Pang%20and%20Lillian%20Lee%3B%20copyright%3A%20Copyright%20(C)%202004%20Bo%20Pang%20and%20Lillian%20Lee%3B%20license%3A%20Creative%20Commons%20Attribution%204.0%20International)
 * Notebook Sentiment Analysis --> [Sentiment Labelled Sentences](https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences)
+
+
 
 
 ## For Winzozz users
